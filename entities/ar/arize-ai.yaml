@@ -40,7 +40,7 @@ offers:
       benefits:
         - benefit_id: ben_01
           kind: free-service
-          service: Arize AX Pro observability and evaluation platform access.
+          service: AX Pro
           description: Six months of AX Pro access at no cost through the startup program.
           duration:
             kind: exact
@@ -49,16 +49,10 @@ offers:
         kind: none
     eligibility:
       rule:
-        kind: all
-        rules:
-          - criterion_id: cri_01
-            kind: manual
-            reason: external-verification
-            statement: First-time Arize customers building an AI-native product.
-          - criterion_id: cri_02
-            kind: manual
-            reason: external-verification
-            statement: Series A or earlier startups, or startups that have raised less than USD 15 million, as stated in the program FAQ.
+        criterion_id: cri_01
+        kind: manual
+        reason: external-verification
+        statement: First-time Arize customers building an AI-native product who are Series A or earlier, or have raised less than USD 15 million.
     roles:
       terms_authority_entity_id: ent_01m4c36q1jwrq1xf8mn2bwvenb
       access_operator_entity_id: ent_01m4c36q1jwrq1xf8mn2bwvenb
@@ -66,6 +60,5 @@ offers:
       availability: public
       method: form
       url: https://arize.com/arize-for-startups/
-    terms_url: https://arize.com/arize-for-startups/
     source_ids:
       - src_48902656aec36857f6eef83182e4d0b28149b6274dc3b3096cd90b04c3fc4e57
