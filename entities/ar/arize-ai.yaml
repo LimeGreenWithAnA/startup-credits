@@ -52,7 +52,7 @@ offers:
         criterion_id: cri_01
         kind: manual
         reason: external-verification
-        statement: First-time Arize customers building an AI-native product who are Series A or earlier, or have raised less than USD 15 million.
+        statement: Applicants must be first-time Arize customers building an AI-native product and either be Series A or earlier or have raised less than $15M. Create a free AX account before applying and use that account's email on the application.
     roles:
       terms_authority_entity_id: ent_01m4c36q1jwrq1xf8mn2bwvenb
       access_operator_entity_id: ent_01m4c36q1jwrq1xf8mn2bwvenb
