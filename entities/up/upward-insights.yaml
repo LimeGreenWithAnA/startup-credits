@@ -17,6 +17,8 @@ profile:
 sources:
   - source_id: src_3d0586b9e487bba9e7294a7b39f9bb9dec53dca3f4f832640f9a9d28665f68ac
     url: https://www.upwardinsights.com/accelerator
+  - source_id: src_0bd052557f96b88e19b475d60d8143484c97198a9b55b863114d45a24fc098af
+    url: https://www.upwardinsights.com/startupfinance
 programs:
   - program_id: prg_01m4c0z1r5mghyq5xs2fn3tn7s
     program_slug: finance-accelerator
@@ -25,6 +27,7 @@ programs:
     summary: A program helping qualifying startups and small businesses build a finance function for growth, investment, or a business sale.
     source_ids:
       - src_3d0586b9e487bba9e7294a7b39f9bb9dec53dca3f4f832640f9a9d28665f68ac
+      - src_0bd052557f96b88e19b475d60d8143484c97198a9b55b863114d45a24fc098af
 offers:
   - offer_id: off_01m4c0z1r5myccnve4qj8gqzaj
     program_id: prg_01m4c0z1r5mghyq5xs2fn3tn7s
@@ -77,3 +80,4 @@ offers:
     terms_url: https://www.upwardinsights.com/accelerator
     source_ids:
       - src_3d0586b9e487bba9e7294a7b39f9bb9dec53dca3f4f832640f9a9d28665f68ac
+      - src_0bd052557f96b88e19b475d60d8143484c97198a9b55b863114d45a24fc098af
